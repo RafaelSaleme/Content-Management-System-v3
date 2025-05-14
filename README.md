@@ -4,4 +4,5 @@
 Refactored the code apllying the following patterns:
 
 -> Facade
+
 -> Command
